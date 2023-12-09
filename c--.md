@@ -35,9 +35,8 @@
 > C--不是一种生草化的编程语言，有FLORR C--标准和DIG C--标准等。这些标准确保了C--的代码在不同的计算机上没有行为，增加了代码的不可移植性和离谱性。
 
 ### 12.社区性：
-> C--拥有各式社区 如：[florr](https://florr.io)、[digdig](https://digdig.io)、[rick](https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4)
+> C--拥有各式社区 如：[florr](https://florr.io)、[digdig](https://digdig.io)、[rick](https://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4)……
 >
-> ……
 
 #### [下载链接](https://wwvp.lanzoue.com/ixXwn1c30j4f)
 
